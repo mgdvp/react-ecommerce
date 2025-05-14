@@ -11,7 +11,7 @@ export default function Products() {
             <img src={product.image} alt={product.name} style={{ width: '100%' }} />
             <h3>{product.name}</h3>
             <p>${product.price.toFixed(2)}</p>
-            <Link to={`/products/${product.id}`}>View</Link>
+            <Link to={`/products/${product.id}`}>View.</Link>
           </div>
         ))}
       </div>
