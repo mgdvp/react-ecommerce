@@ -8,4 +8,4 @@
 - Fake Store API 🛒
 
 ## Live Demo
-- [Live Demo](https://react-e-commerce.vercel.app/)
+- [[Live Demo](https://react-e-commerce.vercel.app/)](https://react-e-commerce.vercel.app/)
